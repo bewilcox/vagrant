@@ -2,7 +2,7 @@ Use Vagrant and VirtualBox to install Jenkins and Docker.
 
 To run :
 ```
-> gitt clone https://github.com/bewilcox/vagrant.git
+> git clone https://github.com/bewilcox/vagrant.git
 > cd jenkins_docker
 > vagrant up
 ```
